@@ -1,8 +1,8 @@
-# Hey, I'm Arish Mahammad 👋
+# Hii, I'm Arish Mahammad 
 
-**Data Engineering student** · Siliguri, India · Open to DE roles
+**Data Engineering student** · Kolkata, India · Open to DE & DA roles
 
-I'm a data engineering student building real-world pipeline skills through open source contributions.
+I'm a data science student building real-world pipeline skills through open source contributions.
 Currently contributing to **dbt** and **Airbyte** as part of a 30-day open source sprint.
 
 ---
