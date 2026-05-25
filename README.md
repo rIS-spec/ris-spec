@@ -33,7 +33,7 @@ Currently contributing to **dbt** and **Airbyte** as part of a 30-day open sourc
 | [Spotify data pipeline](https://github.com/rIS-spec/Spotify_Project) | Python, Spotify API | ETL pipeline that extracts and loads listening data |
 | [YouTube manager](https://github.com/rIS-spec/Youtube_Manager_Project) | Python, CLI | Tool for managing YouTube watch data locally |
 | [Data structures](https://github.com/rIS-spec/Data_Structure) | Python | C++ | Array, String, Stacks, queues, trees, graphs implemented from scratch |
-| [OLA_DataAnalytics_project]((https://github.com/rIS-spec/OLA_DataAnalytics_project )  | SQL, Power BI, Excel | Solving Business KPI |
+| [OLA_DataAnalytics_project ]((https://github.com/rIS-spec/OLA_DataAnalytics_project )  | SQL, Power BI, Excel | Solving Business KPI |
 | [Netflix-Data-Analysis-using-SQL-project](https://github.com/rIS-spec/Netflix-Data-Analysis-using-SQL-project) | Python, Streamlit, SQL, Power BI, Excel | Solving Business KPI |
 | [Banking_Dashboard_Project_with_BI](https://github.com/rIS-spec/Banking_Dashboard_Project_with_BI) | Python, SQL, Power BI, Excel | Solving Real world Business KPI |
 | [ML_Explorer](https://github.com/rIS-spec/ML_Explorer) | Python, Scikit-learn, Streamlit | Without code find the ML_Model |
