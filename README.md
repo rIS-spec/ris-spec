@@ -55,6 +55,6 @@ Currently contributing to **dbt** and **Airbyte** as part of a 30-day open sourc
 Open to **internship** and **placement opportunities** in data engineering.
 
 - GitHub: [@rIS-spec](https://github.com/rIS-spec)
-- LinkedIn: *(add your LinkedIn URL here)*
+- LinkedIn: *(https://www.linkedin.com/in/arishmahammad)*
 
 ---
