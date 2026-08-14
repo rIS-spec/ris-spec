@@ -1,60 +1,129 @@
-# Hii, I'm Arish Mahammad 
+# Hi, I'm Arish Mahammad 👋
 
-**Data Engineering student** · Kolkata, India · Open to DE & DA roles
+**B.Tech CSE (Data Science)** · Data Engineer · ML Engineer · Kolkata, India
 
-I'm a data science student building real-world pipeline skills through open source contributions.
-Currently contributing to **dbt** and **Airbyte** as part of a 30-day open source sprint.
+I build **real-world data and machine learning systems** focused on real-time processing, data pipelines, distributed systems, and production-oriented engineering.
 
----
-
-## Skills
-
-`Python` `SQL` `Git / GitHub` `dbt` `Apache Airflow` `Airbyte` `ETL / ELT Pipelines` `Power BI` `Machine Learning`
+Currently working with technologies such as **Kafka, PySpark, Airflow, PostgreSQL, Docker, AWS, and Machine Learning** while contributing to open-source projects and building end-to-end data platforms.
 
 ---
 
-## Open source contributions
+## 🚀 What I Build
 
-> Actively contributing to data engineering tools — PRs listed below as they merge.
-
-| Project | Contribution | Status | Link |
-|---------|-------------|--------|------|
-| dbt-core | Documentation fix | In progress | — |
-| Airbyte | New connector | In progress | — |
-
-*(Update this table each time a PR merges)*
-
----
-
-## Featured projects
-
-| Project | Stack | Description |
-|---------|-------|-------------|
-| [Spotify data pipeline](https://github.com/rIS-spec/Spotify_Project) | Python, Spotify API | ETL pipeline that extracts and loads listening data |
-| [YouTube manager](https://github.com/rIS-spec/Youtube_Manager_Project) | Python, CLI | Tool for managing YouTube watch data locally |
-| [Data structures](https://github.com/rIS-spec/Data_Structure) | Python | C++ | Array, String, Stacks, queues, trees, graphs implemented from scratch |
-| [OLA_DataAnalytics_project ]((https://github.com/rIS-spec/OLA_DataAnalytics_project )  | SQL, Power BI, Excel | Solving Business KPI |
-| [Netflix-Data-Analysis-using-SQL-project](https://github.com/rIS-spec/Netflix-Data-Analysis-using-SQL-project) | Python, Streamlit, SQL, Power BI, Excel | Solving Business KPI |
-| [Banking_Dashboard_Project_with_BI](https://github.com/rIS-spec/Banking_Dashboard_Project_with_BI) | Python, SQL, Power BI, Excel | Solving Real world Business KPI |
-| [ML_Explorer](https://github.com/rIS-spec/ML_Explorer) | Python, Scikit-learn, Streamlit | Without code find the ML_Model |
-| [LeetCode metrics tracker](https://github.com/rIS-spec/Leetcode_metric_project.js) | JavaScript | Tracks problem-solving progress over time |
+* Real-time data streaming pipelines
+* Data lakes and data warehouse systems
+* ETL / ELT pipelines
+* Distributed data processing systems
+* Machine learning pipelines
+* Backend APIs and data services
+* Production-oriented data platforms
 
 ---
 
-## Currently learning
+## 🛠️ Tech Stack
 
-- dbt-core internals and how to contribute to it
-- Airbyte Connector Development Kit (building custom connectors)
-- Apache Airflow DAG design patterns
-- Data quality testing with Great Expectations
+**Languages**
+
+`Python` `C++` `SQL`
+
+**Data Engineering**
+
+`Apache Kafka` `PySpark` `Apache Airflow` `PostgreSQL/MySQl` `DuckDB` `Delta Lake` `dbt`
+
+**Cloud & DevOps**
+
+`AWS-IAM,EC2,S3,RDS,EMR ` `Docker` `Git` `GitHub`
+
+**Machine Learning & Deep Learning**
+
+`Scikit-learn` `PyTorch` `TensorFlow`
+
+**CS Core**
+`DSA`, `OOPs`, `DBMS`, `OS`, `System Design` 
+
+**Backend & Applications**
+
+`FastAPI` `Streamlit` `REST APIs`
+
+**Visualization**
+`Power BI` `Seaborn` `Matplotlib` `Plotly`
 
 ---
 
-## Connect
+## ⭐ Featured Projects On Data & ML Infrastructure 
 
-Open to **internship** and **placement opportunities** in data engineering.
+### 1. Change Impact Intelligence
 
-- GitHub: [@rIS-spec](https://github.com/rIS-spec)
-- LinkedIn: *(https://www.linkedin.com/in/arishmahammad)*
+**Code → Dependencies → Services → Data → Deployments → Runtime Behavior → Incidents → ML Risk Prediction**
+
+An engineering intelligence platform designed to analyze software changes and predict their potential operational impact before deployment.
+
+**Focus:** Software dependency analysis · Change risk prediction · Distributed systems · ML · Engineering intelligence
 
 ---
+
+### 2. Real-Time Crypto Data Platform
+
+**FastAPI → Kafka → PySpark → Airflow → PostgreSQL → ML → Streamlit**
+
+An end-to-end real-time cryptocurrency data platform that ingests market data, processes streaming events, performs analytics, and applies machine learning for anomaly detection.
+
+**Focus:** Real-time streaming · Kafka · Spark · Data engineering · ML · Orchestration
+
+[View Project](https://github.com/rIS-spec/real-time-crypto-data-platform)
+
+---
+
+### 3. India AQI Data Lake
+
+**API → Kafka → PySpark → Bronze → Silver → Gold → Snowflake → ML**
+
+An end-to-end data lake platform for processing air-quality data from cities across India using a medallion architecture.
+
+**Focus:** Data lake architecture · PySpark · Kafka · Airflow · Delta Lake · Snowflake · ML
+
+[View Project](https://github.com/rIS-spec/India-AQI-Data-Lake)
+
+---
+
+## 🌱 Open Source
+
+Actively exploring and contributing to the **data engineering ecosystem**, including projects such as:
+
+* **dbt**
+* **Airbyte**
+* **Apache Airflow**
+
+Interested in contributing to data infrastructure, connectors, developer tooling, and data quality systems.
+
+---
+
+##  Currently Learning
+
+* Distributed systems and system design
+* Problem Solving Skills( DSA - Array, String, Linked list, Stack, Queue/Dequeue, Tree, Heap, Graph)
+* Advanced data engineering
+* Data pipeline reliability and fault tolerance
+* Machine learning engineering
+* Cloud architecture
+* Production deployment and observability
+* Open-source data infrastructure
+
+---
+
+## 🎯 Career Focus
+
+I'm currently focused on opportunities in:
+
+**Data Engineering · ML Engineering · Data Science · Data Analytics **
+
+Especially interested in building systems involving **large-scale data processing, real-time streaming, Analytics, cloud infrastructure, and machine learning**.
+
+---
+
+## 🤝 Connect
+
+* GitHub: [@rIS-spec](https://github.com/rIS-spec)
+* LinkedIn: [linkedin.com/in/arishmahammad](https://www.linkedin.com/in/arishmahammad)
+
+Open to **internship and placement opportunities** in Data Engineering, Data Analytics and ML Engineering .
