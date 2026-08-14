@@ -77,11 +77,11 @@ An end-to-end real-time cryptocurrency data platform that ingests market data, p
 
 ### 3. India AQI Data Lake
 
-**API → Kafka → PySpark → Bronze → Silver → Gold → Snowflake → ML**
+**API → Kafka → PySpark → Bronze → Silver → Gold → Snowflake/DuckDB → ML**
 
 An end-to-end data lake platform for processing air-quality data from cities across India using a medallion architecture.
 
-**Focus:** Data lake architecture · PySpark · Kafka · Airflow · Delta Lake · Snowflake · ML
+**Focus:** Data lake architecture · PySpark · Kafka · Airflow · Delta Lake · Snowflake/DuckDB · ML
 
 [View Project](https://github.com/rIS-spec/India-AQI-Data-Lake)
 
@@ -126,5 +126,6 @@ Especially interested in building systems involving **large-scale data processin
 
 * GitHub: [@rIS-spec](https://github.com/rIS-spec)
 * LinkedIn: [linkedin.com/in/arishmahammad](https://www.linkedin.com/in/arishmahammad)
+* Gmail: arishmahammad8@gmail.com
 
-Open to **internship and placement opportunities** in Data Engineering, Data Analytics and ML Engineering .
+Open to **internship and placement opportunities** in Data Engineering, Data Analytics, and ML Engineering .
