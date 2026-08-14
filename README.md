@@ -39,6 +39,7 @@ Currently working with technologies such as **Kafka, PySpark, Airflow, PostgreSQ
 `Scikit-learn` `PyTorch` `TensorFlow`
 
 **CS Core**
+
 `DSA`, `OOPs`, `DBMS`, `OS`, `System Design` 
 
 **Backend & Applications**
