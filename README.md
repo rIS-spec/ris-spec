@@ -12,6 +12,7 @@ I build **production-oriented data systems** and contribute to open-source data 
 
 **Active Ecosystems**
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![dbt Core](https://img.shields.io/badge/dbt_Core-FF694B?style=flat&logo=dbt&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat&logo=airbyte&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
@@ -48,7 +49,7 @@ I build **production-oriented data systems** and contribute to open-source data 
 
 ---
 
-## Featured Projects
+## Projects
 
 ### 1. Real-Time Crypto Data Platform
 
@@ -56,9 +57,12 @@ I build **production-oriented data systems** and contribute to open-source data 
 
 End-to-end platform that ingests live market data, processes streaming events, runs analytics, and applies machine learning for anomaly detection.
 
-**Focus:** Real-time streaming · Orchestration · Data engineering · ML
+![Real-time Streaming](https://img.shields.io/badge/Real--time_Streaming-0A66C2?style=flat)
+![Orchestration](https://img.shields.io/badge/Orchestration-0A66C2?style=flat)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-0A66C2?style=flat)
+![ML](https://img.shields.io/badge/ML-0A66C2?style=flat)
 
-[View Project →](https://github.com/rIS-spec/real-time-crypto-data-platform)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat&logo=github)](https://github.com/rIS-spec/real-time-crypto-data-platform)
 
 ---
 
@@ -68,9 +72,13 @@ End-to-end platform that ingests live market data, processes streaming events, r
 
 Data lake for air-quality data across Indian cities, built on a medallion architecture with batch and streaming ingestion.
 
-**Focus:** Data lake design · PySpark · Delta Lake · Analytics · ML
+![Data Lake Design](https://img.shields.io/badge/Data_Lake_Design-0A66C2?style=flat)
+![PySpark](https://img.shields.io/badge/PySpark-0A66C2?style=flat)
+![Delta Lake](https://img.shields.io/badge/Delta_Lake-0A66C2?style=flat)
+![Analytics](https://img.shields.io/badge/Analytics-0A66C2?style=flat)
+![ML](https://img.shields.io/badge/ML-0A66C2?style=flat)
 
-[View Project →](https://github.com/rIS-spec/India-AQI-Data-Lake)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat&logo=github)](https://github.com/rIS-spec/India-AQI-Data-Lake)
 
 ---
 
@@ -80,9 +88,12 @@ Data lake for air-quality data across Indian cities, built on a medallion archit
 
 Data analytics project on OLA ride data, turning raw records into business insights and clear visualizations.
 
-**Focus:** Data analytics · Data cleaning · Visualization · Business insights
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-0A66C2?style=flat)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-0A66C2?style=flat)
+![Visualization](https://img.shields.io/badge/Visualization-0A66C2?style=flat)
+![Business Insights](https://img.shields.io/badge/Business_Insights-0A66C2?style=flat)
 
-[View Project →](https://github.com/rIS-spec/OLA_DataAnalytics_project)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat&logo=github)](https://github.com/rIS-spec/OLA_DataAnalytics_project)
 
 ---
 
@@ -92,9 +103,16 @@ Data analytics project on OLA ride data, turning raw records into business insig
 
 A Kafka-like distributed message broker built from scratch in C++20: multi-client TCP server, length-prefixed binary protocol, hash/round-robin partitioning, and a persistent log with crash recovery.
 
-**Focus:** Systems programming · C++20 · Networking · Concurrency · Distributed systems
+![C++20](https://img.shields.io/badge/C%2B%2B20-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=flat)
+![Concurrency](https://img.shields.io/badge/Concurrency-0A66C2?style=flat)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-0A66C2?style=flat)
 
-[View Project →](https://github.com/rIS-spec/streamforge)
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=flat&logo=github)](https://github.com/rIS-spec/streamforge)
+
+---
+
+### 5. Also More Project Available On My Github
 
 ---
 
@@ -118,8 +136,11 @@ A Kafka-like distributed message broker built from scratch in C++20: multi-clien
 
 ## Career Focus
 
-Open to **internships and entry-level roles** in:
-
-**Data Engineering** · **Data Analytics** · **Data Science** · **ML Engineering** · **Python Backend Development**
+**Open to internships and entry-level roles in:**
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-0A66C2?style=flat)
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-F2C811?style=flat&logoColor=black&labelColor=555)
+![Data Science](https://img.shields.io/badge/Data_Science-8A2BE2?style=flat)
+![ML Engineering](https://img.shields.io/badge/ML_Engineering-E25A1C?style=flat)
+![Python Backend](https://img.shields.io/badge/Python_Backend-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
