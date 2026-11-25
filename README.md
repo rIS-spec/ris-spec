@@ -38,14 +38,14 @@ I build **production-oriented data systems** and contribute to open-source data 
 
 | Area | Tools |
 |---|---|
-| **Languages** | `Python` `SQL` `C++` |
-| **Data Engineering** | `Apache Kafka` `PySpark` `Apache Airflow` `Delta Lake` `dbt` `DuckDB` |
-| **Databases** | `PostgreSQL` `MySQL` |
-| **Backend** | `FastAPI` `REST APIs` `Streamlit` |
-| **Cloud & DevOps** | `AWS (IAM, EC2, S3, RDS, EMR)` `Docker` `Git` `GitHub` |
-| **Analytics & Visualization** | `Power BI` `Matplotlib` `Seaborn` `Plotly` |
-| **ML / DL** | `Scikit-learn` `PyTorch` `TensorFlow` |
-| **CS Fundamentals** | `DSA` `OOP` `DBMS` `Operating Systems` `System Design` |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) |
+| **Data Engineering** | ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white) ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD4?style=flat) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-555555?style=flat) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-IAM_·_EC2_·_S3_·_RDS_·_EMR-FF9900?style=flat) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Analytics & Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) |
+| **ML / DL** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| **CS Fundamentals** | ![DSA](https://img.shields.io/badge/DSA-0A66C2?style=flat) ![OOP](https://img.shields.io/badge/OOP-0A66C2?style=flat) ![DBMS](https://img.shields.io/badge/DBMS-0A66C2?style=flat) ![Operating Systems](https://img.shields.io/badge/Operating_Systems-0A66C2?style=flat) ![System Design](https://img.shields.io/badge/System_Design-0A66C2?style=flat) |
 
 ---
 
@@ -123,14 +123,18 @@ A Kafka-like distributed message broker built from scratch in C++20: multi-clien
 
 ---
 
-## Currently Learning
+## Currently On
 
-- **Data Analytics and Data Science:** analysis, statistics, visualization, and modeling
-- **Python Backend Development:** API design, databases, testing, and deployment
-- **Advanced Data Engineering:** pipeline reliability, fault tolerance, and observability
-- **Distributed Systems and System Design**
-- **Cloud Architecture and Production Deployment**
-- **Problem Solving (DSA):** arrays, strings, linked lists, stacks, queues, trees, heaps, graphs, dynamic programming
+![Data Analytics](https://img.shields.io/badge/Data_Analytics-0A66C2?style=flat)
+![Data Science](https://img.shields.io/badge/Data_Science-0A66C2?style=flat)
+![Python Backend](https://img.shields.io/badge/Python_Backend-0A66C2?style=flat)
+![Advanced Data Engineering](https://img.shields.io/badge/Advanced_Data_Engineering-0A66C2?style=flat)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-0A66C2?style=flat)
+![System Design](https://img.shields.io/badge/System_Design-0A66C2?style=flat)
+![Cloud Architecture](https://img.shields.io/badge/Cloud_Architecture-0A66C2?style=flat)
+![Production Deployment](https://img.shields.io/badge/Production_Deployment-0A66C2?style=flat)
+![DSA](https://img.shields.io/badge/DSA-0A66C2?style=flat)
+![Dynamic Programming](https://img.shields.io/badge/Dynamic_Programming-0A66C2?style=flat)
 
 ---
 
