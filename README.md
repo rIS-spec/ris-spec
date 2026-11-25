@@ -10,7 +10,14 @@ Bachelor of Technology In CSE
 
 I build **production-oriented data systems** and contribute to open-source data infrastructure. My focus is designing reliable, idempotent pipelines, lakehouse architectures, and low-level messaging/backend services—and reading, debugging, and improving the internals of the tools that power them.
 
-**Active Ecosystems:** Apache Airflow · dbt Core · Airbyte · DuckDB · Apache Kafka · PySpark · C++20
+**Active Ecosystems**
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![dbt Core](https://img.shields.io/badge/dbt_Core-FF694B?style=flat&logo=dbt&logoColor=white)
+![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat&logo=airbyte&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![C++20](https://img.shields.io/badge/C%2B%2B20-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 
 ---
@@ -26,7 +33,7 @@ I build **production-oriented data systems** and contribute to open-source data 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Area | Tools |
 |---|---|
