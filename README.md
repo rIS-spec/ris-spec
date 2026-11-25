@@ -1,5 +1,10 @@
 # Hi, I'm Arish Mahammad 
 
+## 🤝 Connect
+[![GitHub](https://img.shields.io/badge/GitHub-rIS--spec-181717?style=flat&logo=github)](https://github.com/rIS-spec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arishmahammad-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/arishmahammad)
+[![Email](https://img.shields.io/badge/Email-arishmahammad8%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arishmahammad8@gmail.com)
+
 **Open-Source Contributor · Data Engineering · Distributed Systems & Backend**  
 Bachelor of Technology In CSE
 
@@ -111,9 +116,3 @@ Open to **internships and entry-level roles** in:
 **Data Engineering** · **Data Analytics** · **Data Science** · **ML Engineering** · **Python Backend Development**
 
 ---
-
-## 🤝 Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-rIS--spec-181717?style=flat&logo=github)](https://github.com/rIS-spec)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arishmahammad-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/arishmahammad)
-[![Email](https://img.shields.io/badge/Email-arishmahammad8%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arishmahammad8@gmail.com)
